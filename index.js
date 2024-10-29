@@ -5,7 +5,7 @@ class hero{
         this.tipo = tipo
     }
 
-    atacar(nome,idade,tipo){
+    atacar(){
         if(tipo === "guerreiro"){
             console.log(`O usuário ${nome}, cuja idade é ${idade}, tem um personagem do tipo ${tipo} que atacou usando espada`)
         }else if (tipo === "mago"){
@@ -20,7 +20,7 @@ class hero{
 
 let nome = "Richard"
 let idade = 20
-let tipo = "mago"
+let tipo = "monge"
 let personagem = new hero(nome,idade,tipo)
 
 personagem.atacar()
