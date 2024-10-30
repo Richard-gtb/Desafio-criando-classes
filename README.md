@@ -38,4 +38,4 @@ Ao final deve se exibir uma mensagem:
   guerreiro atacou usando espada
 
 ## Modificação
-Ao invés de mostrar só o tipo ddo personagem e seu ataque, eu também mostrei o nome do usuário e sua idade.
+Ao invés de mostrar só o tipo do personagem e seu ataque, eu também mostrei o nome do usuário e sua idade.
